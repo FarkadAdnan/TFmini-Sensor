@@ -76,3 +76,5 @@ void loop(){
     delay(500);
 }
 ```
+# For more information about the sensor
+[https://cdn-shop.adafruit.com/product-files/3978/3978_manual_SJ-PM-TFmini-T-01_A03ProductManual_EN.pdf](url)
