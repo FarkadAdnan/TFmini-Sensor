@@ -81,10 +81,10 @@ void loop(){
 > مع تحسين مسار الضوء ، يقلل TFmini Plus من تأثير البيئة الخارجية على أداء قياس المسافة. على الرغم من ذلك ، قد لا يزال نطاق قياس المسافة يتأثر بكثافة إضاءة البيئة .  
 > With light path optimization, TFmini Plus reduces the influence of the external environment on distance measurement performance. Despite this, the distance measurement range may still be affected by the illumination intensity of the environment.
 > ![111111111](https://user-images.githubusercontent.com/35774039/159186788-3a55b678-29ae-4b32-b63d-bfd5e0a6b937.png)
+
 Represents the detection blind zone of TFmini Plus, 0-10cm, within which the output data is unreliable.
 Represents the operating range of TFmini Plus detecting black target with 10% reflectivity, 0.1-5m.
 Represents the operating range of TFmini Plus detecting white target with 90% reflectivity, 0.1-12m.
 Vertical Coordinates: Represents the radius of light spot for TFmini Plus at the different distances. The diameter of light spot depends on the FOV of TFmini Plus (the term of FOV generally refers to the smaller value between the receiving angle and the transmitting angle), which is calculated as follows: d= D ∙ tanβ In the formula above, d is the diameter of light spot; D is detecting range; β is the the value of the receiving angle of TFmini Plus, 3.6°.  
-
 # For more information about the sensor
 https://cdn-shop.adafruit.com/product-files/3978/3978_manual_SJ-PM-TFmini-T-01_A03ProductManual_EN.pdf
