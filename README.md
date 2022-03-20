@@ -76,5 +76,12 @@ void loop(){
     delay(500);
 }
 ```
+
+# Distance Measurement Characteristics
+> مع تحسين مسار الضوء ، يقلل TFmini Plus من تأثير البيئة الخارجية على أداء قياس المسافة. على الرغم من ذلك ، قد لا يزال نطاق قياس المسافة يتأثر بكثافة إضاءة البيئة .  
+> With light path optimization, TFmini Plus reduces the influence of the external environment on distance measurement performance. Despite this, the distance measurement range may still be affected by the illumination intensity of the environment.
+> ![111111111](https://user-images.githubusercontent.com/35774039/159186788-3a55b678-29ae-4b32-b63d-bfd5e0a6b937.png)
+
+
 # For more information about the sensor
 https://cdn-shop.adafruit.com/product-files/3978/3978_manual_SJ-PM-TFmini-T-01_A03ProductManual_EN.pdf
