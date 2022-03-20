@@ -34,5 +34,12 @@ Chapter 3 code_Project_73 The second part 2 of "The Arduino World Book" code_Pro
 ![14](https://user-images.githubusercontent.com/35774039/159183646-658a7524-4beb-4a2f-8f07-4639e259f38a.JPG)
 ![5](https://user-images.githubusercontent.com/35774039/159183655-aa51aaa4-847b-4dfa-91ab-7a8bd556d607.JPG)
 
+# Parameters
+![aasasas](https://user-images.githubusercontent.com/35774039/159183712-63d947eb-ca22-4a09-954a-c8c2275a1971.png)
+- 1.Operating range based on a standard whiteboard with reflectivity 90% in indoor condition
+- 2.The distance measurement here is absolute accuracy, and the specific repeat accuracy will be described in the next section 2.4.
+- 3. 3.6°is the theoretical value, from which the actual value will be different. The theoretical divergence angle is 6°.
+- 4. Only frame rates meeting the formula–1000/n (n is positive integer) can be set. The default frame rate is 100Hz.
+
 
 
